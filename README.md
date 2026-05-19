@@ -1,6 +1,6 @@
 nombre proyecto: Museo
 Asignatura DSY1103 Desarrollo Fullstack
-integantes: Estean Orellana
+integantes: Esteban Orellana
             Miguel Gonzalez
 
 Descripcion del Proyecto:
